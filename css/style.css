@@ -1,3 +1,7 @@
 .biker-zone-light-red {
     background-color: rgba(250, 0, 0, 0.192);
 }
+
+.purchase-btn {
+    margin-bottom: 20px;
+}
